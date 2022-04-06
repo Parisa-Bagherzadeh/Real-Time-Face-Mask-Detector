@@ -1,4 +1,4 @@
-# Real time face mask  detector 
+# Real Time Face Mask  Detector 
   
 This is a model based on vgg16 which detects face mask in real time</br>
 To train the model this dataset https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset is used</br>
